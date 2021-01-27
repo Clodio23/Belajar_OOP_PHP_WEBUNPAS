@@ -125,6 +125,8 @@ echo "<hr>";
 $produk2->setHarga(1000);
 echo $produk2->getHarga();
 
+//keren pak
+
 
 
 ?>
